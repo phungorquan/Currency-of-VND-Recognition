@@ -16,4 +16,5 @@ Special thanks to my lecturer gave me solution to recognize currency as fastest 
 # Time comparision
   - Watch my video to see it : https://youtu.be/NwosF7BgHX8
 
-# Reference : https://thecodacus.com/object-recognition-using-opencv-python/
+# Reference 
+  - https://thecodacus.com/object-recognition-using-opencv-python/
